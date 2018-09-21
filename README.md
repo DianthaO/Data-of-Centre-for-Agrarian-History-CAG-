@@ -1,14 +1,14 @@
-# _[naam van je organisatie]_
-* _Vermeld de missie van je organisatie._
-* _Omschrijf bondig welke data je organisatie verzamelt t.b.v. die missie._
+# _[Centrum Agrarische Geschiedenis (CAG)]_
+* _CAG wil, samen met andere geïnteresseerden, de geschiedenis en het erfgoed van landbouw, voeding en landelijk leven in Vlaanderen en Brussel sinds 1750 bestuderen, bewaren, borgen en ontsluiten._
+* _CAG verzamelt, beschrijft en ontsluit digitale reproducties van agrarisch erfgoed (objecten, foto’s, prenten …)._
 
-* _Omschrijf wie (een concreet stuk van) die data nodig heeft. (cf. je gebruikscenario)_
+* _Voor kunsthistorici die op zoek zijn naar informatie over en beelden van het oeuvre van de botanisch tekenaar Pieter De Pannemaeker._
 * _Omschrijf welke data je vrij toegankelijk maakt om die nood te lenigen._
 
-## _[naam van je dataset]_
+## _[Pieter De Pannemaeker profiel kunsthistoricus]_
 * _Omschrijf wat er concreet in je dataset zit. (cf. je dataprofiel)_
-* _Omschrijf in welke formaat je data beschikbaar is._
-* _Leg eventueel links naar visualisaties of API's._
+* _CSV._
+* _http://resolver.libis.be/._
 
 ## Licenties
 * _Vermeld de licentie op de metadata._
